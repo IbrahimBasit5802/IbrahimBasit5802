@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ibrahim Basit</h1>
 <h3 align="center">Technical Lead - Workshops - GDSC FAST at Google Developer Student Clubs | Flutter Dev | ReactJS | Front-End Web Dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimbasit5802&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimbasit5802" /> </p>
-
 - 🔭 I’m currently working on **on a management software for a restaurant**
 
 - 🌱 I’m currently learning **machine learning and data science**
