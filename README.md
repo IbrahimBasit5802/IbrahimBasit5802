@@ -7,7 +7,7 @@
 
 - 📫 Reach out: **ibasit050802@gmail.com**
 
-- 📄 Resume: [https://drive.google.com/file/d/1DEz_BcByRULoLYBa7znBnYJI5PXca626/view?usp=share_link](https://drive.google.com/file/d/1DEz_BcByRULoLYBa7znBnYJI5PXca626/view?usp=share_link)
+- 📄 Resume: https://drive.google.com/file/d/1isUU05ajslOwc4ubAHWOtjfrlkwRhG2B/view?usp=share_link
 
 - ⚡ Fun fact: **I love playing video games**
 
