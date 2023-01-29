@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ibrahim Basit</h1>
-<h3 align="center">Technical Lead - Workshops - GDSC FAST at Google Developer Student Clubs | Flutter Dev | ReactJS | Front-End Web Dev</h3>
+<h3 align="center">Technical Lead - Workshops - GDSC FAST at Google Developer Student Clubs | Flutter Dev | NodeJS | MongoDB</h3>
 
 - 🔭 I’m currently working on **on a management software for a restaurant**
 
