@@ -7,7 +7,7 @@
 
 - 📫 Reach out: **ibasit050802@gmail.com**
 
-- 📄 Resume: https://drive.google.com/file/d/1isUU05ajslOwc4ubAHWOtjfrlkwRhG2B/view?usp=sharing
+- 📄 Resume: https://drive.google.com/file/d/10IBPjw_elIwyqR_5XekeusBeTpzPljS-/view
 - 💻 Portfolio: https://ibrahims-portfolio.onrender.com/
 - ⚡ Fun fact: **I love playing video games**
 
