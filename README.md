@@ -4,7 +4,6 @@
 - 🌱 I’m currently working on **Generative AI**
 
 - 📫 Reach out: **ibasit050802@gmail.com**
-- 
 - 💻 Portfolio: https://ibrahims-portfolio.onrender.com/
 - ⚡ Fun fact: **I love playing video games**
 
