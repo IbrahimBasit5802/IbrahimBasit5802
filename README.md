@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ibrahim Basit</h1>
-<h3 align="center">Technical Lead - Workshops - GDSC FAST at Google Developer Student Clubs | Flutter Dev | NodeJS | MongoDB</h3>
+<h3 align="center">Software Engineer | Generative AI | Technical Lead - Workshops - GDSC FAST at Google Developer Student Clubs | Flutter Dev | NodeJS | MongoDB</h3>
 
-- 🌱 I’m currently working on **full stack development**
+- 🌱 I’m currently working on **Generative AI**
 
 - 📫 Reach out: **ibasit050802@gmail.com**
-
-- 📄 Resume: https://drive.google.com/file/d/1_PnD9tz5qJw9yZSppvIZt_S_X2hDUudy/view?usp=sharing
+- 
 - 💻 Portfolio: https://ibrahims-portfolio.onrender.com/
 - ⚡ Fun fact: **I love playing video games**
 
