@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ibrahim Basit</h1>
 <h3 align="center">Software Engineer | Generative AI | Technical Lead - Workshops - GDSC FAST at Google Developer Student Clubs | Flutter Dev | NodeJS | MongoDB</h3>
 
-- 🌱 I’m currently working on **Generative AI**
+- 🌱 I’m currently building <a href="https://www.trillet.ai"> Trillet AI </a>
 
 - 📫 Reach out: **ibasit050802@gmail.com**
 - 💻 Portfolio: https://ibrahims-portfolio.onrender.com/
